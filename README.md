@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thông Tin ✅
 
 <!--
 **dqhttdyt/dqhttdyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dqhttdyt&layout=compact&theme=dracula)](https://github.com/dqhttdyt/github-readme-stats)
 ![Duy Nè GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyNe&show_icons=true&theme=dracula)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dqhttdyt&layout=compact&theme=dracula)](https://github.com/dqhttdyt/github-readme-stats)
