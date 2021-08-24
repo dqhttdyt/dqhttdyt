@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! Welcome to my Github, I'm DarkThunder!</h2>
+<h2 align="center">👋 Hello! Welcome to my Github, I'm Dqhttdyt!</h2>
 <p align="center">
 <table align="center">
    <tr>
@@ -8,14 +8,11 @@
          <br/><br/>
             <a href="https://discord.gg/gcafe"><img align="center" src="https://discordapp.com/api/guilds/770993454703575060/widget.png?style=banner2" alt="Discord Banner2"/></a>
          <br/><br/>
-         - 🔭 I’m currently working on <strong><a href="https://hydrabot.fun">Hydra Bot - Discord Bot</a></strong> -
+         - 🔭 I’m currently working support facebook on <strong><a href="https://7onez.com">7Onez</a></strong> -
          <br/>
          - 🌱 I’m currently learning <strong>Javascript</strong> -
          <br/>
          - 💬 Ask me about <strong>JavaScript, Html, CSS, Learning More Languages</strong> -
-         <br/>
-         - 📫 How to reach me: <a href="https://dsc.gg/gcafe">DarkThunder#1899</a> on Discord -
-         <br/>
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqhttdyt&theme=radical&hide_border=true" />
          </p>  
