@@ -6,7 +6,7 @@
          <p align="center">    
          <img align="center" src="https://i.imgur.com/E029hYg.png" width="50%"/></a><br/>
          <br/><br/>
-            <a href="https://discord.gg/7onez"><img align="center" src="https://discordapp.com/api/guilds/770993454703575060/widget.png?style=banner2" alt="Discord Banner2"/></a>
+            <a href="https://discord.gg/7onez"><img align="center"></a>
          <br/><br/>
          - 🔭 I’m currently working support facebook on <strong><a href="https://7onez.com">7Onez</a></strong> -
          <br/>
