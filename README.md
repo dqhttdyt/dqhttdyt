@@ -31,7 +31,7 @@ Hi, i am Duy Nè. I come from Vietnam. My hobbies are programming, and love lear
 
 ### ☕ Buy for me a coffee
 
-- [VietinBank: [102873487169] ] (https://duyneaha.gq/)
+- [VietinBank: [102873487169] ] (https://duyneaha.gq/info/)
 
 ---
 
