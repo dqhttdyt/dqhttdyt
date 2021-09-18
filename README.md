@@ -4,7 +4,7 @@
    <tr>
       <td>
          <p align="center">    
-         <img align="center" src="https://i.imgur.com/E029hYg.png" width="50%"/></a><br/>
+         <img align="center" src="https://scontent.fvca1-4.fna.fbcdn.net/v/t1.6435-9/222431793_695370757946083_6225586465101055481_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=fjvR7BN1xWAAX8Z-IT0&tn=wulpCOk6cOvoUg-D&_nc_ht=scontent.fvca1-4.fna&oh=a08e28d77f57b0c5d336a4aebbfd57b5&oe=616CBE73" width="50%"/></a><br/>
          <br/><br/>
             <a href="https://discord.gg/7onez"><img align="center"></a>
          <br/><br/>
