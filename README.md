@@ -14,12 +14,12 @@
          <br/>
          - 💬 Ask me about <strong>JavaScript, Html, CSS, Learning More Languages</strong> -
          <p align="center">                     
-             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqhttdyt&theme=radical&hide_border=true" />
          </p>  
       </td>
       <td>
       <br/>
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=dqhttdyt&theme=radical&show_icons=true&hide_border=true" />       
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=dqhttdyt&theme=radical&show_icons=true&hide_border=true" />
+         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dqhttdyt&theme=radical&hide_border=true" />
       </td>
    </tr>
 </table>
